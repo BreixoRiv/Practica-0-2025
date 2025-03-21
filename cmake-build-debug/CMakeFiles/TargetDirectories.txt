@@ -1,0 +1,5 @@
+/Users/breixo/Library/CloudStorage/OneDrive-UniversidadedaCoruña/Documentos/Clase/2024_25/2º Cuatrimestre/Programación II/Programas/Prácticas/P0/cmake-build-debug/CMakeFiles/P0.dir
+/Users/breixo/Library/CloudStorage/OneDrive-UniversidadedaCoruña/Documentos/Clase/2024_25/2º Cuatrimestre/Programación II/Programas/Prácticas/P0/cmake-build-debug/CMakeFiles/Rational_struct.dir
+/Users/breixo/Library/CloudStorage/OneDrive-UniversidadedaCoruña/Documentos/Clase/2024_25/2º Cuatrimestre/Programación II/Programas/Prácticas/P0/cmake-build-debug/CMakeFiles/Rational_pointer.dir
+/Users/breixo/Library/CloudStorage/OneDrive-UniversidadedaCoruña/Documentos/Clase/2024_25/2º Cuatrimestre/Programación II/Programas/Prácticas/P0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/breixo/Library/CloudStorage/OneDrive-UniversidadedaCoruña/Documentos/Clase/2024_25/2º Cuatrimestre/Programación II/Programas/Prácticas/P0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
